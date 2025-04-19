@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+#root {
+  max-width: 98%;
+  margin: auto;
+}
+
+a.active {
+  background-color: whitesmoke;
+  color: black;
+}
